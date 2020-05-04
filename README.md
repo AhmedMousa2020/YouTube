@@ -3,9 +3,9 @@
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://drive.google.com/open?id=1LFBPqmFJh61NyxHN2con0RxNCUSIT7Rv" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://drive.google.com/open?id=1LFBPqmFJh61NyxHN2con0RxNCUSIT7Rv" alt="Total Downloads"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://drive.google.com/open?id=1LFBPqmFJh61NyxHN2con0RxNCUSIT7Rv" alt="Latest Stable Version"></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://drive.google.com/open?id=1LFBPqmFJh61NyxHN2con0RxNCUSIT7Rv" alt="License"></a>
 </p>
 
 ## About Laravel
