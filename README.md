@@ -2,7 +2,7 @@
 # Fake YouTube
 
 
-## !!!!!!!!(thar are a Screen Shots for Site uploded)!!!!!!!
+## !!!!!!!!(there are a Screens about Site uploded)!!!!!!!
 
 
 ## About Project it Is Consider Tradition to youtube site by using API to handle Videos Channel And Searching for them
